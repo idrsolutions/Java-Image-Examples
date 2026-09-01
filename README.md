@@ -4,7 +4,7 @@ Worked examples of common image-handling problems in Java, shown side by side ac
 
 This is a curated set of examples, not a full catalogue of every conversion or library IDRsolutions supports. For the complete feature list and documentation, see [our JDeli docs](https://www.idrsolutions.com/docs/jdeli/).
 
-You will need a [license](https://www.idrsolutions.com/jdeli/pricing) or a trial to use JDeli, you can [sign up for a trial here](https://www.idrsolutions.com/jdeli/your-trial).
+You will need a [license](https://www.idrsolutions.com/jdeli/pricing) or a trial to use [JDeli](https://www.idrsolutions.com/jdeli/), you can [sign up for a trial here](https://www.idrsolutions.com/jdeli/your-trial).
 
 ## Structure
 Each problem gets its own package. Inside it, one class per library, so you can compare approaches directly.
